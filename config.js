@@ -13,44 +13,44 @@
 // Betabotz = digunakan hampir di semua fitur kecuali linkshort
 // Botcahx  = digunakan untuk linkshort saja
 
-global.owner = ['6285842647866']  
-global.mods = ['6285842647866'] 
-global.prems = ['6285842647866']
-global.nameowner = 'Lann'
-global.numberowner = '6285842647866' 
-global.mail = 'fxacbapi.my.id@gmail.com' 
-global.dana = '6281395861695'
-global.pulsa = '6281395861695'
-global.gopay = '6281395861695'
-global.namebot = 'BETABOTZ-MD'
-global.gc = 'https://chat.whatsapp.com/G4f1fTpz9zL4EH3FyIcaPR'
-global.web = 'https://github.com/BOTCAHX'
-global.instagram = 'https://instagram.com/prm2.0'
-global.wm = 'Beta BOT-MD'
+global.owner = ['6285651307830']  
+global.mods = ['6285651307830'] 
+global.prems = ['6285651307830']
+global.nameowner = 'Hafizh'
+global.numberowner = '6285651307830' 
+global.mail = 'muhafid6422@gmail.com' 
+global.dana = '6285651307830'
+global.pulsa = '6285921738489'
+global.gopay = '6285651307830'
+global.namebot = 'HaFlazh-BOT'
+global.gc = 'https://chat.whatsapp.com/FZSXzC6XEl12h5mg2dSGJt'
+global.web = 'https://github.com/jackjohnhack'
+global.instagram = 'https://instagram.com/hfizh22'
+global.wm = 'HaFlazhBOT-MD'
 global.watermark = wm
-global.wm2 = '⫹⫺ Beta Bot'
-global.wm3 = '© Lann'
-global.wm4 = 'made by BetaBotz-MD'
+global.wm2 = '⫹⫺ HaFlazh-BOT'
+global.wm3 = '© hafizh'
+global.wm4 = 'made by HaFlazhBOT-MD'
 global.wait = '_*Tunggu sedang di proses...*_'
-global.eror = '_*Server Error*_'
+global.eror = '_*Servernya Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
-global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
-global.packname = 'Made with'
-global.author = 'Bot WhatsApp'
+global.stiker_wait = '*⫹⫺ Stikernya otw bosque....*'
+global.packname = 'Made with HaFlazh-BOT'
+global.author = 'wa.me/6285171662264'
 
 //---- image thumbnail 
-global.thumb = 'https://telegra.ph/file/ec75e8bd53238f11603d9.jpg'
+global.thumb = 'https://telegra.ph/file/4aab52043f8faf1727355.jpg'
 
 //===> Apikey
-global.lann = 'Your_Key_Here' //isi apikey mu https://api.betabotz.org
-global.btc = 'Your_Key_Here'//Isi apikey di https://api.botcahx.live
+global.lann = 'flazhing' //isi apikey mu https://api.betabotz.org
+global.btc = 'NT8nDsbT'//Isi apikey di https://api.botcahx.live
 global.APIs = {   
   lann: 'https://api.betabotz.org',
   btc: 'https://api.botcahx.live'
 }
 global.APIKeys = { 
-  'https://api.betabotz.org': 'Your_Key' //isi apikey mu https://api.betabotz.org
+  'https://api.betabotz.org': 'flazhing' //isi apikey mu https://api.betabotz.org
 }
 
 global.multiplier = 45
