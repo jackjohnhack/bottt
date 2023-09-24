@@ -9,4 +9,4 @@ handler.command = /^hlen$/i
 
 handler.limit = true
 
-export default handler
+module.exports = handler
