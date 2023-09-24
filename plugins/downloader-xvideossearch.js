@@ -21,5 +21,6 @@ const search = await fetch(API('lann', '/api/search/xvideos', { query: q, apikey
 
 handler.command = ['xvideossearch','xsearch'];
 handler.tags = ['internet'];
+handler.premium = true
 
 module.exports = handler;
