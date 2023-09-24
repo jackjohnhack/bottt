@@ -20,5 +20,5 @@ const search = await fetch(API('lann', '/api/search/xnxx', { query: text, apikey
 
 handler.command = ['xnxxsearch'];
 handler.tags = ['internet'];
-
+handler.premium = true
 module.exports = handler;
