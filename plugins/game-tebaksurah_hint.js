@@ -9,4 +9,4 @@ handler.command = /^hsur$/i
 
 handler.limit = true
 
-export default handler
+module.exports = handler
