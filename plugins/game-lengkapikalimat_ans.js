@@ -1,4 +1,4 @@
-import similarity from 'similarity'
+const similarity = require('similarity')
 const threshold = 0.72
 export async function before(m) {
     let id = m.chat
