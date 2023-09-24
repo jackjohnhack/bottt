@@ -35,8 +35,8 @@ let tags = {
 }
 const defaultMenu = {
   before: `
-Hi %name
-I am an automated system (WhatsApp Bot) that can help to do something, search and get data / information only through WhatsApp.
+Hi %name 👋👋.
+Saya adalah bot WhatsApp otomatis yang dapat membantu melakukan sesuatu, mencari dan mendapatkan data atau informasi melalui WhatsApp.
 
  ◦  *Library:* Baileys
  ◦  *Function:* Role
