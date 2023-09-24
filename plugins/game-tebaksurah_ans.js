@@ -28,4 +28,6 @@ export async function before(m) {
     }
     return !0
 }
-export const exp = 0
+handler.exp = 0
+
+module.exports = handler
