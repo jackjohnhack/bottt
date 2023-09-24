@@ -28,8 +28,10 @@ export async function before(m) {
     }
     return !0
 }
-export const exp = 0
+handler.exp = 0
 
 const buttonlengkapikalimat = [
     ['lengkapikalimat', '/lengkapikalimat']
 ]
+
+module.exports = handler
