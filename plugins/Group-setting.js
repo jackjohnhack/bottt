@@ -56,6 +56,6 @@ handler.help = ['grup <open/close>']
 handler.tags = ['group']
 handler.command = /^(g(ro?up|c?)?)$/i
 handler.group = true
-handler.botAdmin = false
+handler.botAdmin = true
 
 module.exports = handler
